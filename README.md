@@ -6,6 +6,11 @@ This repo contains a premium, scroll-controlled parallax website concept for the
 I’m not sharing a hosted URL right now to avoid usage/billing while iterating.  
 Here’s a walkthrough of the current build:
 
+## 🎬 Website Preview
+
+![FrontierXplorers Preview](demo/frontierxplorers-preview.gif)
+
+
 ## What this site showcases
 - Scroll-controlled WebP frame sequence (cinematic parallax)
 - Dark mode aesthetic (black + orange accent)
