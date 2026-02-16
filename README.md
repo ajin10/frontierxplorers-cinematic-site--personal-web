@@ -9,7 +9,7 @@ Here’s a walkthrough of the current build:
 ## 🎬 Website Preview
 
 <p align="center">
-  <img src="preview.gif" width="900" alt="FrontierXplorers Preview" />
+  <img src="Preview.gif" width="900" alt="FrontierXplorers Preview" />
 </p>
 
 ## What this site showcases
