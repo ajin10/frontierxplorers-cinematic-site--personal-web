@@ -8,7 +8,10 @@ Here’s a walkthrough of the current build:
 
 ## 🎬 Website Preview
 
-![FrontierXplorers Preview](demo/frontierxplorers-preview.gif)
+<p align="center">
+  <img src="demo/frontierxplorers-preview.gif" width="900" alt="FrontierXplorers Preview" />
+</p>
+
 
 
 ## What this site showcases
