@@ -6,7 +6,7 @@ This repo contains a premium, scroll-controlled parallax website concept for the
 I’m not sharing a hosted URL right now to avoid usage/billing while iterating.  
 Here’s a walkthrough of the current build:
 
-## 🎬 Website Preview
+## 🎬 Website Preview gif
 
 <p align="center">
  <img src="Preview.gif" width="900" alt="FrontierXplorers Preview" />
